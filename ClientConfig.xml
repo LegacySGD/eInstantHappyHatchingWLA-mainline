@@ -1,0 +1,9 @@
+<ClientConfig>
+	<GameClient name="Happy Hatching WLA" clientCode="mobile"  technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="HappyHatching" enableFreeSpin="Y" clientversion="1.0" gameId="300-2058-0" />
+	<GameClient name="Happy Hatching WLA" clientCode="tablet"  technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="HappyHatching" enableFreeSpin="Y" clientversion="1.0" gameId="300-2058-0" />
+	<GameClient name="Happy Hatching WLA" clientCode="desktop" technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="HappyHatching" enableFreeSpin="Y" clientversion="1.0" gameId="300-2058-0" />
+	
+	<GameClient name="Happy Hatching WLA" clientCode="desktopmini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="HappyHatching" enableFreeSpin="Y" clientversion="1.0" gameId="300-2058-0" />
+	<GameClient name="Happy Hatching WLA" clientCode="tabletmini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="HappyHatching" enableFreeSpin="Y" clientversion="1.0" gameId="300-2058-0" />
+	<GameClient name="Happy Hatching WLA" clientCode="mobilemini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="HappyHatching" enableFreeSpin="Y" clientversion="1.0" gameId="300-2058-0" />
+</ClientConfig>
